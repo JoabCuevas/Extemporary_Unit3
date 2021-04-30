@@ -54,59 +54,59 @@ In this document I will describe the different commands that can be found and us
 
   1. mkdir is a command from the UNIX, DOS, OS / 2, and Microsoft Windows operating systems used to create a new subdirectory or folder of the filesystem.
    Example: 
-   ![Exm](src\Images\mkdir.PNG)
+   ![Exm](src/Images/mkdir.PNG)
 
   2. rmdir and rm -r are commands that erase directories but the main difference is that rmdir is used to erase empty directories while rm -r can delete directories that are not empty.
    Example:
-   ![Exm](src\Images\rm-r.PNG)
+   ![Exm](src/Images/rm-r.PNG)
   
   3. The cp command in GNU / Linux is used to copy a file or folder working on the command line.
    Example:
-   ![Exm](src\Images\cp.PNG)
+   ![Exm](src/Images/cp.PNG)
   
   4. mv is a Unix command used to move or rename files or directories on the file system.
    Example:
-   ![Exm](src\Images\mv.PNG)
+   ![Exm](src/Images/mv.PNG)
 
   5. The chdir or cd command is a command used in DOS and UNIX operating systems to change the working directory.
    Example:
-   ![Exm](src\Images\cd.PNG)
+   ![Exm](src/Images/cd.PNG)
 
   6. The pwd command is used to print the name of the current directory in a command session under a Unix or derived operating system.
     Example:
-    ![Exm](src\Images\pwd.PNG)
+    ![Exm](src/Images/pwd.PNG)
 
   7. The git diff command compares the differences between files line by line.
    Example:
-   ![Exm](src\Images\gitdiff.PNG)
+   ![Exm](src/Images/gitdiff.PNG)
 
   8. The cat command in Linux is one of the most useful you can learn. It derives its name from the word concatenate and allows you to create, merge or print files to the standard output screen or to another file and much more.
    Example:
-   ![Exm](src\Images\cat.PNG)
+   ![Exm](src/Images/cat.PNG)
 
   9. Usually, grep takes a regular expression from the command line, reads the standard input or a list of files, and prints the lines that contain matches for the regular expression.
    Example:
-   ![Exm](src\Images\grep.PNG)
+   ![Exm](src/Images/grep.PNG)
 
   10. echo is a command for printing text on the screen.
    Example:
-   ![Exm](src\Images\echo.PNG)
+   ![Exm](src/Images/echo.PNG)
 
   11. nano is a minimalist and friendly text editor. However, not only does it allow us to edit text, but it also has other very interesting features that make it especially useful for modifying configuration files in the terminal, creating launchers, and all this type of action.
    Example:
-   ![Exm](src\Images\nano.PNG)
+   ![Exm](src/Images/nano.PNG)
 
   12. vim is an improved vi editor, and maybe some commands in vi don't work the same.
    Example:
-   ![Exm](src\Images\vim.PNG)
+   ![Exm](src/Images/vim.PNG)
 
   13. echo [text] > name is to write in a text file, and with two >> is to add another text.
    Example:
-   1[Exm](src\Images\cat2.PNG)
+   1[Exm](src/Images/cat2.PNG)
 
   14. history is a very useful command to find out the last commands that have been executed on a Server.
    Example:
-   ![Exm](src\Images\history.PNG)
+   ![Exm](src/Images/history.PNG)
 
   15. With top we will see an interface in text mode that will be updated every 3 seconds. It shows a summary of the state of our system and the list of processes that are running.
    Example:
@@ -115,7 +115,7 @@ In this document I will describe the different commands that can be found and us
 
   16. whoami is a simple command, used to print the effective username of the current user when it is invoked, which is understood as the name of the user in session.
    Example:
-   ![Exm](src\Images\whoami.PNG)
+   ![Exm](src/Images/whoami.PNG)
 
  -----
 
@@ -153,6 +153,6 @@ In this document I will describe the different commands that can be found and us
 * git push origin master.
 * git merge [name of the branch].
 
- 
+
 
  
