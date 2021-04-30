@@ -102,7 +102,7 @@ In this document I will describe the different commands that can be found and us
 
   13. echo [text] > name is to write in a text file, and with two >> is to add another text.
    Example:
-   1[Exm](src/Images/cat2.PNG)
+   ![Exm](src/Images/cat2.PNG)
 
   14. history is a very useful command to find out the last commands that have been executed on a Server.
    Example:
