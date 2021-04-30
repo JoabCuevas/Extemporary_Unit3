@@ -115,16 +115,38 @@ In this document I will describe the different commands that can be found and us
    Example:
    ![Exm](src\Images\whoami.PNG)
 
- 
+ -----
 
- 
+ ## Initial configuration
 
+ * git config --global user.email joabcuevas@hotmail.com
+ * git config --global user.name Joab_C
 
+## Starting a project or cloning one
 
+* git init name, to start a repository.
+* git clone [link]
 
+## Staging and commiting
 
- 
+* git add name, to add a new or modified file.
+* git add ., to add all files.
+* git commit -m name, to commit.
+* git commit -am, to stage and commit at the same time.
 
+## Pushing
+
+* git push --set-upstream origin <branch>, to push a local branch for the first time.
+* git config --global push.default **current**, to configure Git to always push using the current branch name.
+* git push origin <local_branch>:<remote_branch>, to push a local branch to a different remote branch.
+
+## Branches 
+
+* git switch -c <new-branch-name>, to create and instantly change to that branch.
+* git branch name, to create a new branch.
+* git checkout name, to change to another branch.
+* git branch -d name, to delete a branch.
+* git branch --list, to see a list of all the branches of the repository.
  
 
  
