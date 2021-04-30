@@ -76,9 +76,9 @@ In this document I will describe the different commands that can be found and us
     Example:
     ![Exm](src\Images\pwd.PNG)
 
-  7. The diff command compares the differences between files line by line.
+  7. The git diff command compares the differences between files line by line.
    Example:
-   ![Exm]()
+   ![Exm](src\Images\gitdiff.PNG)
 
   8. The cat command in Linux is one of the most useful you can learn. It derives its name from the word concatenate and allows you to create, merge or print files to the standard output screen or to another file and much more.
    Example:
@@ -100,7 +100,9 @@ In this document I will describe the different commands that can be found and us
    Example:
    ![Exm](src\Images\vim.PNG)
 
-  13. cat:::
+  13. echo [text] > name is to write in a text file, and with two >> is to add another text.
+   Example:
+   1[Exm](src\Images\cat2.PNG)
 
   14. history is a very useful command to find out the last commands that have been executed on a Server.
    Example:
